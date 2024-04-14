@@ -2,7 +2,7 @@
 /* Sheet ID
 /* Your sheet ID
 /* ------------------------------------------------------------------- */
-let sheetID = "14u2z_P3vFOQaRgSbiJPZdYS7QTtcTl-nhbUYF8m3gMg";
+let sheetID = "https://docs.google.com/spreadsheets/d/14u2z_P3vFOQaRgSbiJPZdYS7QTtcTl-nhbUYF8m3gMg/edit#gid=2014536518g";
 
 
 /* ------------------------------------------------------------------- */
